@@ -1,0 +1,1 @@
+07-02 07:35:45.381: I/Ads(23200): Use AdRequest.Builder.addTestDevice("0A56BB6AD0BA010731F6886054801B2E") to get test ads on this device.
