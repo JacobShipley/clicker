@@ -10,7 +10,7 @@ import com.badlogic.gdx.graphics.Color;
  */
 public class Consts {
 	/** Flags **/
-	public static final boolean DEBUG = true;
+	public static final boolean DEBUG = false;
 	public static final boolean LOGIN_ENABLED = true;
 	
 	/** Sprites **/
@@ -19,7 +19,7 @@ public class Consts {
 	public static final String SPRITE_STAR = "coin.png";
 	public static final String SPRITE_STORE = "store.png";
 	public static final String SPRITE_STORE_PRESSED = "store_pressed.png";
-	public static final String SPRITE_INSTRUCTION = "instructions_01.png";
+	public static final String SPRITE_INSTRUCTION = "instruction_01.png";
 	public static final String SPRITE_UPGRADE_TIME = "up_time.png";
 	public static final String SPRITE_UPGRADE_QUANTITY = "up_quantity.png";
 
